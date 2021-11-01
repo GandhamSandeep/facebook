@@ -1,0 +1,33 @@
+#row{
+    margin-top: 100px;
+}
+
+#facebook{
+    margin-top: 100px;
+  float: left;
+}
+#card{
+    margin-bottom: 40px;
+  float: right;
+}
+#color{
+    color: rgb(12, 111, 150);
+}
+#black{
+    color: black;
+    font-weight: 600;
+    
+}
+#middle{
+    margin-left: 80px;
+}
+#background{
+    background-color:whitesmoke ;
+}
+#c{
+    width: 25rem;
+}
+
+
+
+
